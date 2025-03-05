@@ -1,2 +1,2 @@
 # Srishti
-This repository is made in order to add my programs made for this task
+A website skeleton programing language - HTML
